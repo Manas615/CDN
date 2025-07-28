@@ -36,12 +36,11 @@ This project simulates an adaptive Content Delivery Network (CDN) with various c
 
 ## Dependencies
 
-- Python 3.x
-- (List any additional Python packages if used, e.g., numpy, pandas)
+- Python
 
 ## Usage
 
-Modify the simulation parameters in the respective Python files as needed. Run the scripts to simulate different CDN scenarios and analyze the results.
+Run the scripts to simulate different CDN scenarios and analyze the results.
 
 ## License
 
