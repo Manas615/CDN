@@ -1,0 +1,327 @@
+[
+    {
+        "content_id": 0,
+        "size_mb": 50,
+        "metrics": {
+            "views": 15472,
+            "likes": 634,
+            "comments": 46,
+            "saves": 183,
+            "shares": 19,
+            "actual_viewers": 3790
+        },
+        "current_score": 135.43535620052768
+    },
+    {
+        "content_id": 1,
+        "size_mb": 25,
+        "metrics": {
+            "views": 2103,
+            "likes": 57,
+            "comments": 0,
+            "saves": 32,
+            "shares": 3,
+            "actual_viewers": 636
+        },
+        "current_score": 101.92610062893081
+    },
+    {
+        "content_id": 2,
+        "size_mb": 25,
+        "metrics": {
+            "views": 2474,
+            "likes": 142,
+            "comments": 20,
+            "saves": 63,
+            "shares": 26,
+            "actual_viewers": 1312
+        },
+        "current_score": 79.82088414634146
+    },
+    {
+        "content_id": 3,
+        "size_mb": 25,
+        "metrics": {
+            "views": 130,
+            "likes": 8,
+            "comments": 4,
+            "saves": 1,
+            "shares": 1,
+            "actual_viewers": 107
+        },
+        "current_score": 58.41121495327103
+    },
+    {
+        "content_id": 4,
+        "size_mb": 14,
+        "metrics": {
+            "views": 300,
+            "likes": 15,
+            "comments": 2,
+            "saves": 4,
+            "shares": 2,
+            "actual_viewers": 164
+        },
+        "current_score": 69.35975609756098
+    },
+    {
+        "content_id": 5,
+        "size_mb": 30,
+        "metrics": {
+            "views": 1261,
+            "likes": 44,
+            "comments": 0,
+            "saves": 11,
+            "shares": 5,
+            "actual_viewers": 527
+        },
+        "current_score": 76.42314990512335
+    },
+    {
+        "content_id": 6,
+        "size_mb": 42,
+        "metrics": {
+            "views": 5215,
+            "likes": 44,
+            "comments": 45,
+            "saves": 7,
+            "shares": 4,
+            "actual_viewers": 1752
+        },
+        "current_score": 88.54166666666667
+    },
+    {
+        "content_id": 7,
+        "size_mb": 27,
+        "metrics": {
+            "views": 6422,
+            "likes": 224,
+            "comments": 0,
+            "saves": 112,
+            "shares": 87,
+            "actual_viewers": 1810
+        },
+        "current_score": 129.93093922651934
+    },
+    {
+        "content_id": 8,
+        "size_mb": 22,
+        "metrics": {
+            "views": 4171,
+            "likes": 57,
+            "comments": 58,
+            "saves": 130,
+            "shares": 0,
+            "actual_viewers": 2036
+        },
+        "current_score": 73.37917485265226
+    },
+    {
+        "content_id": 9,
+        "size_mb": 27,
+        "metrics": {
+            "views": 473,
+            "likes": 7,
+            "comments": 0,
+            "saves": 3,
+            "shares": 0,
+            "actual_viewers": 144
+        },
+        "current_score": 90.79861111111113
+    },
+    {
+        "content_id": 10,
+        "size_mb": 44,
+        "metrics": {
+            "views": 22458,
+            "likes": 402,
+            "comments": 92,
+            "saves": 17,
+            "shares": 14,
+            "actual_viewers": 5489
+        },
+        "current_score": 119.06995809801423
+    },
+    {
+        "content_id": 11,
+        "size_mb": 32,
+        "metrics": {
+            "views": 504,
+            "likes": 14,
+            "comments": 1,
+            "saves": 1,
+            "shares": 1,
+            "actual_viewers": 275
+        },
+        "current_score": 55.363636363636374
+    },
+    {
+        "content_id": 12,
+        "size_mb": 36,
+        "metrics": {
+            "views": 4105,
+            "likes": 4,
+            "comments": 81,
+            "saves": 10,
+            "shares": 1,
+            "actual_viewers": 1448
+        },
+        "current_score": 93.31837016574586
+    },
+    {
+        "content_id": 13,
+        "size_mb": 32,
+        "metrics": {
+            "views": 2401,
+            "likes": 60,
+            "comments": 17,
+            "saves": 44,
+            "shares": 8,
+            "actual_viewers": 1131
+        },
+        "current_score": 72.85587975243148
+    },
+    {
+        "content_id": 14,
+        "size_mb": 42,
+        "metrics": {
+            "views": 920,
+            "likes": 14,
+            "comments": 7,
+            "saves": 6,
+            "shares": 11,
+            "actual_viewers": 514
+        },
+        "current_score": 62.7431906614786
+    },
+    {
+        "content_id": 15,
+        "size_mb": 14,
+        "metrics": {
+            "views": 18277,
+            "likes": 80,
+            "comments": 44,
+            "saves": 26,
+            "shares": 6,
+            "actual_viewers": 6520
+        },
+        "current_score": 74.98849693251535
+    },
+    {
+        "content_id": 16,
+        "size_mb": 10,
+        "metrics": {
+            "views": 35,
+            "likes": 2,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "actual_viewers": 29
+        },
+        "current_score": 38.793103448275865
+    },
+    {
+        "content_id": 17,
+        "size_mb": 8,
+        "metrics": {
+            "views": 1288,
+            "likes": 8,
+            "comments": 0,
+            "saves": 0,
+            "shares": 12,
+            "actual_viewers": 337
+        },
+        "current_score": 111.86943620178043
+    },
+    {
+        "content_id": 18,
+        "size_mb": 49,
+        "metrics": {
+            "views": 2371,
+            "likes": 82,
+            "comments": 8,
+            "saves": 9,
+            "shares": 0,
+            "actual_viewers": 1651
+        },
+        "current_score": 44.60932768019382
+    },
+    {
+        "content_id": 19,
+        "size_mb": 41,
+        "metrics": {
+            "views": 1321,
+            "likes": 18,
+            "comments": 27,
+            "saves": 33,
+            "shares": 5,
+            "actual_viewers": 814
+        },
+        "current_score": 63.144963144963135
+    },
+    {
+        "content_id": 20,
+        "size_mb": 43,
+        "metrics": {
+            "views": 6790,
+            "likes": 351,
+            "comments": 1,
+            "saves": 245,
+            "shares": 149,
+            "actual_viewers": 4141
+        },
+        "current_score": 72.56701279884085
+    },
+    {
+        "content_id": 21,
+        "size_mb": 42,
+        "metrics": {
+            "views": 146,
+            "likes": 6,
+            "comments": 1,
+            "saves": 1,
+            "shares": 0,
+            "actual_viewers": 50
+        },
+        "current_score": 98.0
+    },
+    {
+        "content_id": 22,
+        "size_mb": 26,
+        "metrics": {
+            "views": 28453,
+            "likes": 3503,
+            "comments": 561,
+            "saves": 1248,
+            "shares": 613,
+            "actual_viewers": 20247
+        },
+        "current_score": 86.20783325924829
+    },
+    {
+        "content_id": 23,
+        "size_mb": 34,
+        "metrics": {
+            "views": 244,
+            "likes": 5,
+            "comments": 0,
+            "saves": 1,
+            "shares": 0,
+            "actual_viewers": 110
+        },
+        "current_score": 62.27272727272728
+    },
+    {
+        "content_id": 24,
+        "size_mb": 43,
+        "metrics": {
+            "views": 4417,
+            "likes": 195,
+            "comments": 4,
+            "saves": 16,
+            "shares": 29,
+            "actual_viewers": 1269
+        },
+        "current_score": 117.55319148936171
+    }
+]
